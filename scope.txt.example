@@ -1,0 +1,8 @@
+# WP-DETECT scope file
+# One authorized domain per line. Wildcards supported (*.example.com).
+
+example.com
+www.example.com
+staging.example.com
+127.0.0.1
+localhost
